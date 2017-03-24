@@ -1,5 +1,12 @@
 /.settings/
+<<<<<<< HEAD
 /target/
 /.classpath
 /.project
 /.springBeans
+=======
+/.classpath
+/.project
+/.springBeans
+/target/
+>>>>>>> branch 'master' of https://github.com/EEIT92Team05/RemoteRepositoryTeam05.git

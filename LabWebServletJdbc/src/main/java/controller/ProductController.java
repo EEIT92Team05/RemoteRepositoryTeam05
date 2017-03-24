@@ -65,7 +65,11 @@ public class ProductController {
 		if(errors!=null && !errors.isEmpty()) {
 			return "product.error";
 		}
+<<<<<<< HEAD
 		
+=======
+		//Commit3
+>>>>>>> branch 'master' of https://github.com/EEIT92Team05/RemoteRepositoryTeam05.git
 //呼叫model, 根據Model執行結果呼叫View
 		if("Select".equals(prodaction)) {
 			List<ProductBean> select = productService.select(bean);
