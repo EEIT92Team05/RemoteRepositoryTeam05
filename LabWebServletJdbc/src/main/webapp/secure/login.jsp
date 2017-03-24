@@ -32,6 +32,10 @@
 	</tr>
 </table>
 </form>
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> branch 'master' of https://github.com/EEIT92Team05/RemoteRepositoryTeam05.git
 </body>
 </html>
