@@ -65,7 +65,7 @@ public class ProductController {
 		if(errors!=null && !errors.isEmpty()) {
 			return "product.error";
 		}
-		
+		//Commit3
 //呼叫model, 根據Model執行結果呼叫View
 		if("Select".equals(prodaction)) {
 			List<ProductBean> select = productService.select(bean);
